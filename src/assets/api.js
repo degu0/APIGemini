@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyBXztqftAhan-_KLb2_7k7opFeIqMup1m8";
+const API_KEY = "SUA_CHAVE_AQUI";
 const MODEL = "gemini-1.5-flash";
 
 async function sendMessage() {
